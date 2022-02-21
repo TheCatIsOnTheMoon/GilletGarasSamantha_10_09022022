@@ -5,8 +5,6 @@
 
 > Link Figma [_here_](https://www.figma.com/file/qvMkUeBoSh3fhRCgRpf4SQ/Learn%40Home-Project?node-id=0%3A1).
 
-> Link Use Cases [_here_](https://app.diagrams.net/#HTheCatIsOnTheMoon%2FGilletGarasSamantha_10_09022022%2Fmaster%2FUseCasesUMLDiagram.drawio).
-
 > Link Kanban [_here_](https://github.com/TheCatIsOnTheMoon/GilletGarasSamantha_10_09022022/projects/2).
 
 ## General Information - Assessed skills
